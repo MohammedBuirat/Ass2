@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignmnet2</string>
+    <string name="highest">Highest Score</string>
+    <string name="Score">Your Final Score</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="submit">Submit</string>
+</resources>
